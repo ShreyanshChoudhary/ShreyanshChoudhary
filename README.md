@@ -27,7 +27,7 @@ My goal is to continue expanding my knowledge and expertise in backend developme
 
 ## Get in Touch
 
-If you're interested in discussing backend development, exploring potential collaborations, or sharing insights on the latest technologies, feel free to connect with me! You can reach me here on GitHub or via email at [your_email@example.com](mailto:your_email@example.com). Let's build amazing backend solutions together!
+If you're interested in discussing backend development, exploring potential collaborations, or sharing insights on the latest technologies, feel free to connect with me! You can reach me here on GitHub or via email at shreyansh1825@outlook.com. Let's build amazing backend solutions together!
 
 ---
 
