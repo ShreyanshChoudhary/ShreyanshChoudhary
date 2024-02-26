@@ -9,8 +9,8 @@ I'm Shreyansh, a dedicated backend developer hailing from Pune,Maharashtra, Indi
 
 ## Backend Technologies
 
-- **Spring Framework:** I have extensive experience in building enterprise-grade applications with the Spring Framework. From dependency injection to MVC architecture, I leverage the power of Spring to develop highly maintainable and testable code.
 - **Java Programming:** Java is my language of choice for backend development. I'm proficient in core Java concepts and utilize its rich ecosystem to implement business logic, data manipulation, and integration with external systems.
+- **Spring Framework:** I have extensive experience in building enterprise-grade applications with the Spring Framework. From dependency injection to MVC architecture, I leverage the power of Spring to develop highly maintainable and testable code.
 - **SQL Databases:** I'm well-versed in SQL database management systems, including MySQL and H2 database. I design and optimize database schemas, write complex queries, and ensure data integrity and performance.
 - **H2 Database:** I have hands-on experience with H2 database, a powerful in-memory database engine. I leverage its lightweight nature and fast performance for development, testing, and prototyping purposes.
 
