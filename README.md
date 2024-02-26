@@ -2,9 +2,14 @@
 
 **## About Me**
 
-**I'm Shreyansh, a Backend Developer from Pune, Maharashtra, India, specializing in the Spring Framework, Spring JDBC, and Hibernate for building robust and scalable applications.**
+**I'm Shreyansh, a fullstack  Developer from Pune, Maharashtra, India, specializing in the Spring Framework, Spring JDBC, and Hibernate for building robust and scalable applications.**
 
-**## Spring Expertise**
+**## Frontend Technologies**
+
+- **HTML, CSS, JavaScript:** Proficient in frontend development technologies, I create engaging and responsive user interfaces using HTML for structure, CSS for styling, and JavaScript for interactivity.
+- **Bootstrap:** Skilled in utilizing Bootstrap framework to streamline frontend development, ensuring consistency and compatibility across different devices and screen sizes.
+
+**## Backend Technology**
 
 - **Spring MVC:** Proficient in building web applications using Spring MVC, leveraging its Model-View-Controller architecture for clean and organized code.
 - **Spring JDBC:** Skilled in data access operations using Spring JDBC, simplifying database interaction and improving application performance.
