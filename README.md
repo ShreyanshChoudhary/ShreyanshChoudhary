@@ -2,7 +2,7 @@
 
 **## About Me**
 
-**I'm Shreyansh, a fullstack  Developer from Pune, Maharashtra, India, specializing in the Spring Framework, Spring JDBC, and Hibernate for building robust and scalable applications.**
+**I'm Shreyansh, a fullstack  Developer from Pune, Maharashtra, India, specializing in the Spring Framework, Spring JDBC,Hibernate and SpringBoot for building robust and scalable applications.**
 
 **## Frontend Technologies**
 
