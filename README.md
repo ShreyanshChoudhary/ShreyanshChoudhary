@@ -8,6 +8,7 @@
 
 - **HTML, CSS, JavaScript:** Proficient in frontend development technologies, I create engaging and responsive user interfaces using HTML for structure, CSS for styling, and JavaScript for interactivity.
 - **Bootstrap:** Skilled in utilizing Bootstrap framework to streamline frontend development, ensuring consistency and compatibility across different devices and screen sizes.
+- **React:** Experienced in building dynamic, component-based user interfaces with React, using state management, hooks, and React Router for efficient navigation and scalability.
 
 **## Backend Technology**
 
