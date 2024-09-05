@@ -8,7 +8,6 @@
 
 - **HTML, CSS, JavaScript:** Proficient in frontend development technologies, I create engaging and responsive user interfaces using HTML for structure, CSS for styling, and JavaScript for interactivity.
 - **Bootstrap:** Skilled in utilizing Bootstrap framework to streamline frontend development, ensuring consistency and compatibility across different devices and screen sizes.
-- **React:** Experienced in building dynamic, component-based user interfaces with React, using state management, hooks, and React Router for efficient navigation and scalability.
 
 **## Backend Technology**
 
@@ -16,8 +15,8 @@
 - **Spring JDBC:** Skilled in data access operations using Spring JDBC, simplifying database interaction and improving application performance.
 - **Spring Data JPA:** Experienced in simplifying data access layer with Spring Data JPA, facilitating seamless integration with various data sources.
 - **Hibernate Integration:** Experienced in integrating Hibernate with Spring applications for object-relational mapping, enabling efficient data persistence and retrieval.
-
-
+- **Spring Boot:** Experienced in developing robust applications with Spring Boot, simplifying configuration and deployment, and enabling rapid development of production-ready applications.Proficient in designing 
+  and implementing RESTful APIs using Spring Boot, ensuring efficient communication between the client and server for data exchange.
 
 **## Projects**
 
